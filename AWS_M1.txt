@@ -1,0 +1,115 @@
+What is AWS?
+Amazon Web Services (AWS) is the largest cloud computing platform. These combinable systems provide maximum usability and are designed expressly for the optimization of your application’s performance through content delivery features, data storage, and more.
+With AWS, you pay only for the exact amount of assistance you require, resulting in lower capital commitment and enhanced time-to-value without compromising productivity.
+
+1. Amazon EC2 (Elastic Compute Cloud)
+EC2 is a cloud platform provided by Amazon that offers secure, and resizable compute capacity. Its purpose is to enable easy access and usability to developers for web-scale cloud computing, while allowing for total control of your compute resources.
+Deploy applications rapidly without the need for investing in hardware upfront; all the while able to launch virtual servers as-needed and at scale.
+
+2. Amazon RDS (Relational Database Services)
+Amazon Relational Database Service (Amazon RDS) makes database configuration, management, and scaling easy in the cloud. Automate tedious tasks such as hardware provisioning, database arrangement, patching, and backups – cost-effectively and proportionate to your needs.
+RDS is available on various database instances which are optimized for performance and memory, providing six familiar database engines including Amazon Aurora, PostgreSQL, MySQL, MariaDB, Oracle. database, and SQL server. By leveraging the AWS Database Migration Service, you can easily migrate or reproduce your existing databases to Amazon RDS. Visit Amazon’s RDS page.
+
+3. Amazon S3 (Simple Storage Service)
+Amazon S3, at its core, facilitates object storage, providing leading scalability, data availability, security, and performance. Businesses of vast sizes can leverage S3 for storage and protect large sums of data for various use cases, such as websites, applications, backup, and more.
+Amazon S3’s intuitive management features enable the frictionless organization of data and configurable access controls.
+
+4. Amazon Lambda
+Lambda permits you to run code without owning or managing servers. Users only pay for the compute time consumed.
+Operate code for nearly any application or backend utility without administration. Users just upload the code, and Lambda does the rest, which provides precise software scaling and extensive availability.
+
+5. Amazon CloudFront
+CloudFront is a content delivery network platform that executes at rapid rates with the secure distribution of data, videos, apps, and APIs on a global scale with low delay-times. Connected with the global infrastructure of AWS, CloudFront integrates seamlessly with systems like Amazon S3, Amazon EC2, AWS Shield and Lambda@Edge to manage custom code, personalizing the experience.
+When connected with applications such as Amazon S3, Amazon EC2, etc, there are no additional data transfer fees.
+
+6. Amazon Glacier
+AWS Glacier services are secure, flexible, and affordable Amazon S3 cloud storage classes for data caching and prolonged backup. These storage classes ensure confident delivery while ensuring comprehensive security and compliance capabilities, while fulfilling the regulatory prerequisites.
+Users can store as little as $1 per terabyte monthly; meanwhile, helping them save both up-front and long-term when compared to their on-premises servers.
+
+Questions
+
+Q1: Which AWS service provides a fully managed NoSQL database service that provides fast and predictable performance with seamless scalability?
+A. AWS RDS
+B. DynamoDB
+C. Oracle RDS
+D. Elastic Map Reduce
+
+Answer: – DynamoDB
+
+Q2: In the shared responsibility model for infrastructure services, such as Amazon Elastic Compute Cloud, which of the below two are customers responsibility?
+A. Network infrastructure
+B. Amazon Machine Images (AMIs)
+C. Virtualization infrastructure
+D. Physical security of hardware
+E. Policies and configuration
+
+Answer: Amazon Machine Images(AMIs) & POlicies and Configuration
+
+3: AWS offers two savings plans to enable more savings and flexibility for its customers, namely, compute saving plans and EC2 Instance Savings plans.
+Which of the below statement is FALSE regarding Saving Plans?
+A. Capacity Reservations are not provided with Saving Plans.
+B. Savings Plans are available for all the regions.
+C. Savings plans will apply on ‘On-Demand Capacity Reservations’ that customers can allocate for their needs.
+D. The prices for Savings Plans do not change based on the amount of hourly commitment.
+
+Answer: Savings plans are available for all the regions
+
+Q4: Which of the following LightSail Wizard allows the customers to “create a copy of the LightSail instance in EC2”?
+A. LightSail Backup
+B. LightSail Copy
+C. Upgrade to EC2
+D. LightSail-EC2 snapshot
+
+Answer: Upgrade to EC2
+
+Q5. Cosmo Property has its data centres on-premises. They are planning to move to the AWS cloud. What is the primary value proposition of cloud computing?
+A. Reduced effort and investment in staff training
+B. Less expenditure as changing from Operational Expenses to Capital Expenses
+C. Less expenditure as changing from Capital Expenses to Operational Expenses
+D. Resource sharing and parallel executions of applications on multiple on-premises data centres
+
+Answer: Less expenditure as changing from Capital Expenses to Operational Expenses
+
+Q6.According to the Shared Responsibility Model, what is Sun Solar’s responsibility for various AWS resources?
+A. Encryption of Data
+B. Infrastructure Security
+C. Network Cabling
+D. Hardware Firmware
+
+Answer: Encryption of data
+
+Q7.Amazon Route 53 enables users to:
+A. encrypt data in transit
+B. register DNS domain names
+C. generate and manage SSL certificates
+D. establish a dedicated network connection to AWS
+
+Answer: register DNS domain names
+
+Q8.Which AWS service should be used to create a billing alarm?
+A. AWS Trusted Advisor
+B. AWS CloudTrail
+C. Amazon CloudWatch
+D. Amazon QuickSight
+
+Answer: Amazon cloudwatch
+
+Q9.Users are reporting latency when connecting to a website with a global customer base.
+Which AWS service will improve the customer experience by reducing latency?
+A. Amazon CloudFront
+B. AWS Direct Connect
+C. Amazon EC2 Auto Scaling
+D. AWS Transit Gateway
+
+Answer: Amazon Cloudfront
+
+Q10.A company wants to use an AWS service to monitor the health of application endpoints, with the ability to route traffic to healthy regional endpoints to improve application availability.
+Which service will support these requirements?
+A. Amazon Inspector
+B. Amazon CloudWatch
+C. AWS Global Accelerator
+D. Amazon CloudFront
+
+Answer: AWS Global Accelerator
+
+
